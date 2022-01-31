@@ -7,7 +7,7 @@ public class HelloUnited{
         // Creates a reader instance which takes
         // input from standard input - keyboard
         Scanner reader = new Scanner(System.in);
-        System.out.print("Enter a number: ");
+        System.out.print("Enter a digit: ");
 
         // nextInt() reads the next integer from the keyboard
         int number = reader.nextInt();
